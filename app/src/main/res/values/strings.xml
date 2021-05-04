@@ -3,4 +3,9 @@
     <string name="Illinois">Illinois State Driver</string>
     <string name="greateful_text">Where are you going today?</string>
     <string name="get_strated_text">GET STARTED</string>
+    <string name="email_hint">Email</string>
+    <string name="passored_hint">Password</string>
+    <string name="loggin_text">LOGIN</string>
+    <string name="or_text">Or</string>
+    <string name="create_text">CREATE ACCOUNT</string>
 </resources>
