@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CS425_Project</string>
+    <string name="Illinois">Illinois State Driver</string>
+    <string name="greateful_text">Where are you going today?</string>
+    <string name="get_strated_text">GET STARTED</string>
 </resources>
